@@ -22,6 +22,17 @@ I am _passionate about_:
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>: Computer Science
 
-***
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |     12  |   12   |
+| 123   |  123 |    123  |   123  |
+|   1   |   1  |    1    |    1   |
+
+| Dept   |  Crs ID  |              Course Name                   |Credits|
+|:------:|:--------:|:------------------------------------------:|:-----:|
+|**COP** | **2034** | *Introduction to Programming Using Python* |      3|
+|**COP** | **2073** | *Introduction to Data Science*             |      3|
+|**CTS** | **2375** | *Cloud Infrastructure and Services*        |      3|
+|**MAC** | **2311** | *Analytic Geometry and Calculus 1*         |      4|
 
 > Last modified: 2003/09/05
