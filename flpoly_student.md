@@ -22,11 +22,7 @@ I am _passionate about_:
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>: Computer Science
 
-| Right | Left | Default | Center |
-|------:|:-----|---------|:------:|
-|   12  |  12  |     12  |   12   |
-| 123   |  123 |    123  |   123  |
-|   1   |   1  |    1    |    1   |
+
 
 | Dept   |  Crs ID  |              Course Name                   |Credits|
 |:------:|:--------:|:------------------------------------------:|:-----:|
